@@ -2,7 +2,7 @@ package 입출력연습;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+//수정후
 public class BufferRea {
 	public static void main(String[] args) {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
